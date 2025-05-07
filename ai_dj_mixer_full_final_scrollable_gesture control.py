@@ -21,7 +21,7 @@ except ImportError:
     gesture_enabled = False
 
 import google.generativeai as genai
-api_key = "AIzaSyD2_mfrP7NQf_ftITUFkZMih6M2YcEh6-A"
+api_key = "API"
 
 song_paths = []
 cue_points = [{}, {}]
